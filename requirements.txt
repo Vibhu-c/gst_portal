@@ -1,0 +1,5 @@
+streamlit==1.44.1
+pandas==2.2.3
+yfinance==0.2.55
+plotly==6.0.1
+reportlab==4.4.1
